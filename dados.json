@@ -1,0 +1,72 @@
+{
+    "Ficha": [
+        {
+            "nome": "nadia",
+            "notas": [
+                10.0
+            ],
+            "media": [
+                10.0
+            ]
+        },
+        {
+            "nome": "gabriel",
+            "notas": [
+                9.0,
+                10.0,
+                10.0
+            ],
+            "media": [
+                9.666666666666666
+            ]
+        },
+        {
+            "nome": "alane",
+            "notas": [
+                9.0
+            ],
+            "media": [
+                9.0
+            ]
+        },
+        {
+            "nome": "niverton felipe",
+            "notas": [
+                8.0,
+                9.0,
+                10.0
+            ],
+            "media": [
+                9.0
+            ]
+        },
+        {
+            "nome": "baiana",
+            "notas": [
+                8.0
+            ],
+            "media": [
+                8.0
+            ]
+        },
+        {
+            "nome": "teste",
+            "notas": [
+                0.0,
+                10.0
+            ],
+            "media": [
+                5.0
+            ]
+        },
+        {
+            "nome": "Larrana",
+            "notas": [
+                9.0
+            ],
+            "media": [
+                9.0
+            ]
+        }
+    ]
+}
